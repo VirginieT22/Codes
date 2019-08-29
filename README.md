@@ -8,4 +8,4 @@ ENSSAT Lannion
 
 22305 Lannion cedex
 
-Indiquez-nous votre adresse postale, et vous recevrez gratuitement un exemplaire de la nouvelle version du livre. 
+Indiquez-nous votre adresse postale, et vous recevrez un exemplaire de la nouvelle version du livre. 
